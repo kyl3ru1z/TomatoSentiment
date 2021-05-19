@@ -12,3 +12,4 @@ Scrapes Rotten Tomatoes movie reviews and runs a sentiment analysis. After analy
 - polarity and subjectivity in sentiment analysis 
 - extracting information from multiple pages
 - exporting information into a csv file 
+- implementing multithreading
