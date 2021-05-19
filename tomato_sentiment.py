@@ -17,7 +17,8 @@ def extractReviewInfo(movie, maxPages):
     csv_file = open('rotten_tomatoes_scrape.csv', 'w', encoding="utf-8")
     csv_writer = csv.writer(csv_file)
     csv_writer.writerow(['Name', 'Publication', 'Review', 'Original Score', 'Polarity', 'Subjectivity'])
-
+    
+    # change the path of the chrome driver to where you have it in your system
     driver = webdriver.Chrome('C:\\Users\Kyle Ruiz\\Documents\Selenium Driver\\chromedriver.exe')
 
     reviewCount = 0
