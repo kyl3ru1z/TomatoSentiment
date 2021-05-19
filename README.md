@@ -1,5 +1,5 @@
 # TomatoSentiment
-Scrapes Rotten Tomatoes movie reviews and runs a sentiment analysis. After analyzing each individual review the program will give a score. The sample size of the movie will determine how accurate the score will be. For exmaple, Avengers Engame has around 541 reviews and gives a polarity score of 93% which is simmilar to Rotten Tomaotoes score of 94%. 
+Scrapes Rotten Tomatoes movie reviews and runs a sentiment analysis. After analyzing each individual review the program will give a score. The sample size of the movie will determine how accurate the score will be. For exmaple, Avengers Engame has around 541 reviews and gives a positive polarity perceision of 93% which is simmilar to Rotten Tomaotoes score of 94%. 
 
 # How to use
 - Download the chrome driver for selenium. https://sites.google.com/chromium.org/driver/
