@@ -9,7 +9,7 @@ Scrapes Rotten Tomatoes movie reviews and runs a sentiment analysis. After analy
 - in the GUI enter the max of pages plus one. (non-inclusive)
 
 # What I Learned
-- polarity and subjectivity in sentiment analysis 
+- polarity and objectivity in sentiment analysis 
 - extracting information from multiple pages
 - exporting information into a csv file 
 - implementing multithreading
